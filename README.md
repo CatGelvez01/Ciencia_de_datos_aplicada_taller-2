@@ -27,8 +27,11 @@ Este proyecto desarrolla un modelo de Machine Learning capaz de estimar el preci
 # 📁 2. Contenido del repositorio
 
 ├── data/
+
 │   └── apartamentos.csv               # Dataset original
+
 ├── TallerN2_AnaliticaDatos.ipynb      # Notebook completo del proyecto
+
 └── README.md
 
 # 📊 3. Metodología del proyecto
