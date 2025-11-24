@@ -25,6 +25,7 @@ Este proyecto desarrolla un modelo de Machine Learning capaz de estimar el preci
 - Evaluar el impacto económico del modelo (ROI, break-even, sensibilidad).
 
 # 📁 2. Contenido del repositorio
+
 ├── data/
 │   └── apartamentos.csv               # Dataset original
 ├── TallerN2_AnaliticaDatos.ipynb      # Notebook completo del proyecto
