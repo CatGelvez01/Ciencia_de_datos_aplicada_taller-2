@@ -1,4 +1,3 @@
-# Ciencia_de_datos_aplicada_taller-2
 # Clase: Ciencia de datos aplicada - taller N2 
 
 # Integrantes:
@@ -6,6 +5,7 @@
 - Ana Catalina Gelvez Alvarez
 
 ➡️Presentación:
+[TallerN2_Proyecto_habitalpes.pdf](https://github.com/user-attachments/files/23700555/TallerN2_Proyecto_habitalpes.pdf)
 
 
 ▶️Contexto:
