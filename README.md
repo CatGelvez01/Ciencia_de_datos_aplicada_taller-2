@@ -1,61 +1,50 @@
 # Ciencia_de_datos_aplicada_taller-2
-Clase: Ciencia de datos aplicada - taller N2 
+# Clase: Ciencia de datos aplicada - taller N2 
 
-Integrantes:
+# Integrantes:
 - Nicolas Gonzalez Ochoa
-
 - Ana Catalina Gelvez Alvarez
 
 ➡️Presentación:
 
 
+▶️Contexto:
 HabitAlpes – Modelo de Estimación del Precio de Venta de Apartamentos en Bogotá
 Proyecto de Analítica de Datos — Modelos Predictivos y Análisis Económico
 
 Este proyecto desarrolla un modelo de Machine Learning capaz de estimar el precio de venta de apartamentos ubicados en Bogotá, con el fin de optimizar el proceso de avalúo inmobiliario y reducir costos operativos para la empresa HabitAlpes.
 
-El Notebook principal del proyecto es:
+# El Notebook principal del proyecto es:
 📄 TallerN2_AnaliticaDatos.ipynb
 
-📌 1. Objetivo del proyecto
+# 📌1. Objetivos del proyecto:
 
-Construir una herramienta de analítica que permita:
+- Construir una herramienta de analítica que permita:
+- Estimar el precio de venta de apartamentos en Bogotá.
+- Minimizar costos administrativos.
+- Evaluar el impacto económico del modelo (ROI, break-even, sensibilidad).
 
-Estimar el precio de venta de apartamentos en Bogotá.
-
-Reducir el tiempo de peritaje experto (de 6 horas a 1 hora).
-
-Minimizar costos administrativos.
-
-Identificar errores graves de subestimación (>20 millones COP).
-
-Evaluar el impacto económico del modelo (ROI, break-even, sensibilidad).
-
-📁 2. Contenido del repositorio
+# 📁 2. Contenido del repositorio
 ├── data/
 │   └── apartamentos.csv               # Dataset original
 ├── TallerN2_AnaliticaDatos.ipynb      # Notebook completo del proyecto
 └── README.md
 
-📊 3. Metodología del proyecto
-1. Limpieza y preparación del dataset
+# 📊 3. Metodología del proyecto
+1. Limpieza y preparación del dataset:
 
-Manejo de NaN
-
-Normalización y escalado
-
-Eliminación de outliers vía clipping estadístico
-
-One-hot encoding para variables categóricas
+- Manejo de NaN
+- Normalización y escalado
+- Eliminación de outliers vía clipping estadístico
+- One-hot encoding para variables categóricas
 
 2. Modelos entrenados
 
 Se implementaron y evaluaron 3 modelos:
-
-Modelo	R²	MAE	RMSE
-Regresión Lineal	~0.61	~0.38	~0.62
-Lasso (L1)	~0.61	~0.38	~0.62
-Ridge (L2)	~0.61	~0.38	~0.62
+- Modelo	R²	MAE	RMSE
+- Regresión Lineal	~0.61	~0.38	~0.62
+- Lasso (L1)	~0.61	~0.38	~0.62
+- Ridge (L2)	~0.61	~0.38	~0.62
 
 📌 Todos los modelos tuvieron desempeño similar debido a multicolinealidad y alta dispersión del precio.
 
