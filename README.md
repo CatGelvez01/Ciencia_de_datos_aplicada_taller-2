@@ -2,8 +2,11 @@
 Clase: Ciencia de datos aplicada - taller N2 
 
 Integrantes:
-Nicolas Gonzalez Ochoa 
-Ana Catalina Gelvez Alvarez
+- Nicolas Gonzalez Ochoa
+
+- Ana Catalina Gelvez Alvarez
+
+➡️Presentación:
 
 
 HabitAlpes – Modelo de Estimación del Precio de Venta de Apartamentos en Bogotá
